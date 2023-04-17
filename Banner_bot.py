@@ -8,7 +8,7 @@ from telegram.ext import (
     CommandHandler,
 )
 
-TOKEN = "6115831664:AAFJ6zbsYAfQruWCZpOwIhHd_U5-KswlUR0"
+TOKEN = "6108944169:AAFyp_O3r2QRD0Q2jpu6zX5uQT3ZP_WIn-U"
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
